@@ -39,22 +39,22 @@ an actual company.
 
 ## ⚡ SnowXAI
 
-<sub>one company · one intelligence layer · six products</sub>
+<sub>one company · one intelligence layer · Manu products</sub>
 
 </div>
 
 ```
-                                   ✦ SNOWXAI ✦
-                                       │
-                 ┌─────────────────────┼─────────────────────┐
-                 │                     │                     │
-             SNOW LLM              SNOWBRAIN               SNOW CORE
-          intelligence layer   reasoning · memory       deterministic
-                                context · routing      intent & execution
-                 │                     │                     │
-                 └─────────────────────┼─────────────────────┘
-                                       │
-                            ✦ intelligent products ✦
+                                                     ✦ SNOWXAI ✦
+                                                         │
+                                   ┌─────────────────────┼─────────────────────┐
+                                   │                     │                     │
+                               SNOW LLM              SNOWBRAIN               SNOW CORE
+                            intelligence layer   reasoning · memory       deterministic
+                                                  context · routing      intent & execution
+                                   │                     │                     │
+                                   └─────────────────────┼─────────────────────┘
+                                                         │
+                                              ✦ intelligent products ✦
                
 ```
 
@@ -160,7 +160,9 @@ in public yet.
 
 ## 📡 Connect
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/mohd-zaid-3936003a8?utm_source=share_via&utm_content=profile&utm_medium=member_android"/></a>
+<a href="https://www.linkedin.com/in/mohd-zaid-3936003a8/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohd%20Zaid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 <a href="YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=todoist&logoColor=B794F6"/></a>
 <a href="https://github.com/Buildwith-Zxid"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=B794F6"/></a>
 
