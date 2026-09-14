@@ -39,7 +39,7 @@ an actual company.
 
 ## ⚡ SnowXAI
 
-<sub>one company · one intelligence layer · Manu products</sub>
+<sub>one company · one intelligence layer · Many products</sub>
 
 </div>
 
