@@ -2,57 +2,39 @@
 
 # MOHD ZAID
 
-### Developer · Founder · AI Builder
+### Building things that shouldn't exist yet.
 
-Building software, intelligent systems, and products from the ground up.
+**Developer · Founder · AI Systems**
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Buildwith--Zxid-181717?style=for-the-badge&logo=github)](https://github.com/Buildwith-Zxid)
+[ GitHub ](https://github.com/Buildwith-Zxid) · **SnowXAI**
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Zaid
+## `whoami`
 
-I'm a developer and founder focused on building **AI systems, software products, and developer-focused technology**.
+I build software at the intersection of **AI, systems, and products**.
 
-I enjoy working across the stack — from system architecture and backend engineering to AI infrastructure and product development.
+Currently building **SnowXAI** — an independent AI technology company.
 
-Currently, I'm building **SnowXAI** — an AI technology company focused on creating intelligent software and AI-powered products.
-
----
-
-## 🚀 What I'm Building
-
-### 🧠 SnowXAI
-
-An AI technology ecosystem focused on intelligent systems, AI assistants, and software products.
-
-### 🤖 Snow
-
-A personal AI assistant focused on conversation, context, reasoning, voice, and interaction with software.
-
-### ⚙️ Snow Core
-
-A deterministic execution and intent engine designed to turn natural-language instructions into reliable software actions.
-
-### 🧠 Snow LLM
-
-The intelligence layer behind the Snow ecosystem, focused on reasoning, context understanding, and AI workflows.
+Most of the interesting stuff is still being built behind the scenes.
 
 ---
 
-## 🛠️ My Stack
+## `// building`
 
 ```text
-Languages       Python · Rust · TypeScript · Java
-
-AI / ML         LLMs · RAG · NLP · Computer Vision
-
-Backend         FastAPI · REST APIs · PostgreSQL
-
-Frontend        React · Vite · PyQt
-
-Infrastructure  Linux · Git · Cloud · Supabase
+SNOWXAI
+│
+├── Snow
+│   └── Personal AI
+│
+├── Snow LLM
+│   └── Intelligence
+│
+├── Snow Core
+│   └── Execution
+│
+└── Snow Notebook
+    └── Knowledge
