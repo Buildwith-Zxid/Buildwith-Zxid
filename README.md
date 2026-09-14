@@ -6,7 +6,7 @@
 
 <br/>
 
-<i>Building things that shouldn't exist yet.</i>
+<i>Building things that people need.</i>
 
 <br/><br/>
 
@@ -55,12 +55,7 @@ an actual company.
                  └─────────────────────┼─────────────────────┘
                                        │
                             ✦ intelligent products ✦
-                                       │
-                 ┌─────────────────────┼─────────────────────┐
-                 │                     │                     │
-               SNOW              SNOW COFOUNDER          SNOW NOTEBOOK
-          personal assistant     AI work workspace     local-first
-                                                         knowledge system
+               
 ```
 
 <table width="100%">
@@ -102,9 +97,9 @@ workflows, not another chatbot skin.
 
 </td><td width="50%" valign="top">
 
-**📓 Snow Notebook**
-A local-first knowledge workspace — notes, structured knowledge, and
-a visual knowledge graph, with AI assistance where it earns its place.
+**📓 Executive head of snowxai **
+Handling all the execution and growth of the company.
+Currently under development but soon on your systems.
 
 </td></tr>
 </table>
@@ -165,7 +160,7 @@ in public yet.
 
 ## 📡 Connect
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=B794F6"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/mohd-zaid-3936003a8?utm_source=share_via&utm_content=profile&utm_medium=member_android"/></a>
 <a href="YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=todoist&logoColor=B794F6"/></a>
 <a href="https://github.com/Buildwith-Zxid"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=B794F6"/></a>
 
